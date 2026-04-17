@@ -62,3 +62,31 @@ items in their short-term memory at once.
 - **Credit cards:** 4111 1111 1111 1111 (4 groups of 4)
 - **Netflix navbar:** only 6 menu items (Home, Series, Films, Games, New & Popular, My List)
 - **YouTube sidebar:** grouped into sections, not one long list
+
+
+---
+
+## Activity 4: Semantic Network
+
+### What is a Semantic Network?
+A semantic network is a diagram where:
+- **Nodes** = concepts (e.g. User, System, Interface)
+- **Edges** = relationships between concepts (e.g. "uses", "affects")
+
+### Diagram
+<img width="554" height="375" alt="Screenshot 2026-04-18 003234" src="https://github.com/user-attachments/assets/a93fab2d-f8e8-4e85-89d9-f5acaaba2d14" />
+
+
+### Key Relationships observed from Dix Chapter 1
+- User **uses** Interface to interact with the System
+- User **performs** Tasks to achieve goals
+- User **has** a Mental Model of how the system works
+- Interface **provides** Feedback to the User
+- Feedback **improves** Usability
+- Mental Model **affects** Usability
+- Interaction happens **between** User and System
+
+### Conclusion
+Understanding how these concepts connect helps designers build
+better interfaces. When feedback is clear and matches the user's
+mental model, usability improves significantly.
