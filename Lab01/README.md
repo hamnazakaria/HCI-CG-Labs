@@ -1,0 +1,3 @@
+# Lab 01 - HCI-CG
+## Short-Term Memory Limits & Interface Design
+Work in progress...
