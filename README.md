@@ -35,3 +35,28 @@ Both Netflix and YouTube use chunking to reduce cognitive load on users.
 Instead of showing raw lists of hundreds of items, they group content into
 meaningful categories. This respects Miller's Law (7±2 items per chunk),
 making interfaces easier to navigate and remember.
+
+
+
+---
+
+## Activity 3: STM Experiment (Miller's Law)
+
+### What is Miller's Law?
+Miller's Law states that the average person can only hold **7 (plus or minus 2)** 
+items in their short-term memory at once.
+
+### Console Demo
+![Miller's Law Demo](millers_law.png)
+
+### Results
+| Version | Items Shown | Recall Difficulty |
+|---------|-------------|-------------------|
+| Ungrouped | 5 2 9 1 7 4 6 8 | Hard — 8 separate items |
+| Chunked | 529  174  68 | Easy — only 3 chunks |
+
+### Real UI Examples that respect Miller's Law
+- **Phone numbers:** 0321-4567890 (grouped, not 03214567890)
+- **Credit cards:** 4111 1111 1111 1111 (4 groups of 4)
+- **Netflix navbar:** only 6 menu items (Home, Series, Films, Games, New & Popular, My List)
+- **YouTube sidebar:** grouped into sections, not one long list
