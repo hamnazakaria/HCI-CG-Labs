@@ -19,7 +19,8 @@
 ---
 
 ### YouTube
-![YouTube Annotated](youtube_annotated.png)
+<img width="951" height="445" alt="youtube" src="https://github.com/user-attachments/assets/6e112df6-586d-4492-be4b-80ffe6a83e48" />
+
 
 **Chunking Strategies observed:**
 - Top navigation bar groups Search, Upload, Notifications into one chunk
