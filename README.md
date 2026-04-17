@@ -47,7 +47,9 @@ Miller's Law states that the average person can only hold **7 (plus or minus 2)*
 items in their short-term memory at once.
 
 ### Console Demo
-![Miller's Law Demo](millers_law.png)
+<img width="408" height="130" alt="millers law png " src="https://github.com/user-attachments/assets/4befa8f8-c216-4c0b-a435-67a2bb046a14" />
+
+
 
 ### Results
 | Version | Items Shown | Recall Difficulty |
